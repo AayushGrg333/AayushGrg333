@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?size=626&ext=jpg&ga=GA1.1.1077883623.1707928632&semt=ais"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" />
 
 ###
 
