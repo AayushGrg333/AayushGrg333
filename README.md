@@ -1,8 +1,4 @@
 
-
-
-  
- 
   
   <h1 align="center">Hi, there! 👋</h1>
 
@@ -66,6 +62,7 @@
   <a href ="https://www.linkedin.com/in/aayush-gurung-17994127a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
+
 ###
 
 <br clear="both">
@@ -76,3 +73,7 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=Aayushgrg333&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
+
+![snake animation](https://github.com/AayushGrg333/AayushGrg333/blob/output/github-contribution-grid-snake2.svg)
+
+  
