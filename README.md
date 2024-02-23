@@ -73,7 +73,12 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=Aayushgrg333&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
-
-![snake animation](https://github.com/AayushGrg333/AayushGrg333/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
   
