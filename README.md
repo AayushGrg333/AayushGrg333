@@ -1,11 +1,24 @@
 <h2 align="left">My name is Aayush and i'm a CS student.</h2>
 
 ###
-  <div align="center">
+<div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayushgrg333.Aayushgrg333&"  />
   </div>
-
-
+  
+  ###
+  
+  <h1 align="center">Hi 👋</h1>
+  
+  ###
+  
+  <h3 align="left">👩‍💻  About Me</h3>
+  
+  ###
+  
+  <p align="left">I'm Aayush from Nepal<br><br>- 🔭 I’m currently a student <br>- 📚 I'm a CS major<br></p>
+  
+  ###
+  
 
   
 
