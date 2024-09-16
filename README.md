@@ -11,7 +11,7 @@
   
   ###
   
-  <h3 align="left">I'm Aayush from Nepal<br><br>- 🔭 I’m currently a student <br>- 📚 I'm a CS major<br></h3>
+  <h3 align="left">I'm Aayush from Nepal<br><br>- 🔭 I’m currently a student <br>- 📚 I'm a CS major<br> <br>- i love to code. Yeah that's it ig<br></h3>
   
   ###
   
