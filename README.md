@@ -42,7 +42,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Random GIF" height="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Random GIF" height="150" />
 </span>
 
 
