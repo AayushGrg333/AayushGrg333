@@ -40,7 +40,7 @@
 <span>
   <img src="https://github-contributor-stats.vercel.app/api?username=AayushGrg333&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Random GIF" height="150" />
 </span>
