@@ -18,7 +18,7 @@
 
 
   ## 🌐 Socials:
-<a href="https://linkedin.com/in/AayushGurung" target="_blank">
+<a href="https://www.linkedin.com/in/aayush-gurung-17994127a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
