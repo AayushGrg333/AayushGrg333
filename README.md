@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AayushGrg333&theme=dark&hide_border=false&include_all_commits=true&count_private=false&title_color=FF5555&icon_color=FF5555&text_color=FFFFFF&bg_color=151515" alt="GitHub Stats" width="450"/><br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushGrg333&theme=dark&hide_border=false&ring=FF5555&fire=FF5555&currStreakLabel=FF5555" alt="GitHub Streak Stats" width="450"/><br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushgrg333&show_icons=true&locale=en&theme=dark"" alt="aayushgrg333" /></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushGrg333&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF5555&icon_color=FF5555&text_color=FFFFFF&bg_color=151515" alt="Most Used Languages" width="400"/>
 </div>
