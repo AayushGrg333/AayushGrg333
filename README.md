@@ -21,6 +21,9 @@
 <a href="https://www.linkedin.com/in/aayush-gurung-17994127a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<span>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Random GIF" height="150" />
+</span>
 
 
 
@@ -44,13 +47,11 @@
 
 ### 🔝 Top Contributed Repo
 
-<span>
-  <img src="https://github-contributor-stats.vercel.app/api?username=AayushGrg333&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</span>
+
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AayushGrg333&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5rbWJ5cmFpcnh0anA5ZzdoenNnMGlyNm0wOWhqajY1dmcyNGdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" alt="Random GIF" height="150" />
-</span>
+
 
 
 
