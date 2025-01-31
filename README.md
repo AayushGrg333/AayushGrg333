@@ -3,6 +3,13 @@
   <h1 align="center">Hi, there! 👋</h1>
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=30&letterSpacing=&duration=3989&pause=1000&color=3CF700&width=451&height=59&lines=%24+Hello%2C+World!)](https://git.io/typing-svg)
+</div>
+
+###
+
+<div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayushgrg333.Aayushgrg333&"  />
   </div>
 
@@ -39,8 +46,6 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Aayushgrg333&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450"/><br/><br/>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushgrg333&theme=dark&hide_border=false" alt="aayushgrg333" /></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushGrg333&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF5555&icon_color=FF5555&text_color=FFFFFF&bg_color=151515" alt="Most Used Languages" width="400"/>
 </div>
