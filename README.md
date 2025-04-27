@@ -10,7 +10,6 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Aayushgrg333.Aayushgrg333&"  />
   </div>
 
   
