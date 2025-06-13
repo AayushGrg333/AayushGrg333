@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushGrg333&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF5555&icon_color=FF5555&text_color=FFFFFF&bg_color=151515" alt="Most Used Languages" width="400"/>
 </div>
 
-### 🔝 Top Contributed Repo
-
-
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AayushGrg333&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
