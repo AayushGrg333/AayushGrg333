@@ -42,12 +42,20 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushgrg333&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450"/><br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushGrg333&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=FF5555&icon_color=FF5555&text_color=FFFFFF&bg_color=151515" alt="Most Used Languages" width="400"/>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushgrg333&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" width ="500" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aayushgrg333&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170"  width ="500" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aayushgrg333&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
