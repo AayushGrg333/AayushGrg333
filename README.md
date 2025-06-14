@@ -17,7 +17,7 @@
   
   ###
   
-  <h3 align="left">I'm Aayush from Nepal<br><br>- 📚 I’m a CSIT major</br><br>- 📙 Currently in 1st Sem</br><br>- 👩‍💻i love to code. Yeah that's it ig<br></h3>
+  <h3 align="left">I'm Aayush from Nepal<br><br>- 📚 I’m a CSIT major</br><br>- 📙 Currently in 1st Sem</br><br>- 👩‍💻i love to code.<br></h3>
   
   ###
 
